@@ -24,7 +24,7 @@ A ReactJS-based CRUD application for managing employee data, built using Cosmocl
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/Assignment_Cosmocloud.git
+   git clone https://github.com/nishchaya2k/Assignment_Cosmocloud.git
 
 2. Navigate to the project directory:
    cd Assignment_Cosmocloud
